@@ -1,10 +1,10 @@
 # mbit
 
-Extension for Yahboom mbit
+Extension for Yahboom mbit go
 
 ## License
 
-MIT
+MIT ya
 
 ## Supported targets
 
