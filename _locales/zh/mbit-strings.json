@@ -1,6 +1,6 @@
 {
 
-  "mbit_顯示類.LED1|block": "LED燈|引腳 %pin|狀態 %value",
+  "mbit_顯示類.LED1|block": "LED燈2|引腳 %pin|狀態 %value",
   "mbit_顯示類.LED2|block": "LED燈|引腳 %pin|亮度 %value",
   "mbit_顯示類.BreathLED|block": "呼吸燈|引腳 %pin",
   "mbit_顯示類.RGB|block": "RGB七彩燈|引腳R %pin1|引腳G %pin2|引腳B %pin3|紅色 %value1|綠色 %value2|藍色 %value3",
